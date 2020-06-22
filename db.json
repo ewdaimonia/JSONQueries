@@ -1,0 +1,19 @@
+{
+  "queries": [
+    {
+      "name": "Gabe",
+      "location": "Main Office",
+	  "cardtype": "PIV-i"
+    },
+    {
+      "name": "Michael",
+      "location": "Main Office",
+	  "cardtype": "PIV-i"
+    },
+    {
+      "name": "Trivor",
+      "location": "Main Office",
+	  "cardtype": "PIV-i"
+    }	
+  ]
+}
